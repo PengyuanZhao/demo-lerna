@@ -1,9 +1,9 @@
 {
   "name": "@foursquare/ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "src/index.js",
   "dependencies": {
-    "@foursquare/utils": "^0.0.1"
+    "@foursquare/utils": "^0.0.2"
   },
   "peerDependencies": {
     "react": "^16.12.0"
