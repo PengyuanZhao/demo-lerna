@@ -1,5 +1,5 @@
 export default {
   info: (...args) => {
-    console.error('Info: ', ...args);
+    console.info('Info: ', ...args);
   },
 };
